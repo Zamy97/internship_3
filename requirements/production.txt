@@ -11,4 +11,4 @@ Collectfast==2.2.0  # https://github.com/antonagestam/collectfast
 django-storages[boto3]==1.10.1  # https://github.com/jschneier/django-storages
 django-anymail[mailgun]==8.1  # https://github.com/anymail/django-anymail
 
-pdj-static==0.0.6
+pdj-static==0.0.6 # https://github.com/heroku-python/dj-static
